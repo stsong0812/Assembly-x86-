@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#Program: Adding Float Array
-#Author: Johnson Tong
+#Program: Arrays
+#Author: Steven Song
 
 #Purpose: script file to run the program files together.
 #Clear any previously compiled outputs
